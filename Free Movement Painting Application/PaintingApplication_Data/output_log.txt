@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) HD8490 (ID=0x6771)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: I:\Year 4\Semester 2\FYP\Free Movement Painting Application\PaintingApplication_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on DetectJoints
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.

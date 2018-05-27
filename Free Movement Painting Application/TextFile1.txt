@@ -1,0 +1,9 @@
+What was done tonight:
+
+The main difficulty that I faced is it was not possible to segment a TrailRenderer, what this means is that I could not start and stop drawing a line. 
+I got around this by using the LineRenderer gameObject. I immediatly encountered an issue where a single GameObject could not contain multiple LineRenderers,
+this issue was solved by keeping a list of GameObjects, each containing a LineRenderer. As lines are permanent and there is no way to erase lines in my 
+application, I only ever need to use the top item in the List.
+
+While I was in the process of doing this, I also extracted some of the blocks of code, such as tracking the movement or the colour sphere hit detection 
+to their own methods in order to increase code readability.
